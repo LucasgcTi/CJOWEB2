@@ -24,7 +24,7 @@ Este é o projeto final desenvolvido para a disciplina de Desenvolvimento Web 2 
 
 ### Passos para rodar
 1. Clone este repositório:
-   `git clone <link-do-seu-repositorio>`
+   `git clone https://github.com/LucasgcTi/CJOWEB2.git`
 2. Navegue até a pasta do projeto:
    `cd nome-da-pasta`
 3. Execute a aplicação com Maven:
