@@ -8,7 +8,7 @@ Este é o projeto final desenvolvido para a disciplina de Desenvolvimento Web 2 
 - **Spring Data JPA (Hibernate)**
 - **Spring Security**
 - **Validation (Jakarta Validation)**
-- **H2 Database** (ou o banco que você estiver usando)
+- **H2 Database** 
 
 ## 🛠 Funcionalidades
 - **CRUD Completo:** Listagem, criação, atualização e exclusão de cidadãos.
