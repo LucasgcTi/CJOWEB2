@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import jakarta.validation.Valid;
 
-@CrossOrigin(origins = "*") // <--- O @CrossOrigin deve ficar aqui, antes da classe
+@CrossOrigin(origins = "*") 
 @RestController
 @RequestMapping("/cidadaos")
 public class CidadaoController {
